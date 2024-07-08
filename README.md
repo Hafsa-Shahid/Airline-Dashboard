@@ -63,10 +63,6 @@ To explore the analysis, you can:
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 Thanks to atomcamp for providing the data and enabling this analysis. This analysis was a part of my portfolio project.
